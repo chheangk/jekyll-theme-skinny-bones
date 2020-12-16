@@ -1,8 +1,10 @@
 ---
 layout: archive
 permalink: /
-title: "Something big is coming!"
+title: "Latest Posts"
 ---
+# Something big is coming
+
 ![image](images/catglasses.jpg)
 <div class="tiles">
 {% for post in site.posts %}
