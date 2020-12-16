@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Something big is coming!"
 ---
 ![image](images/catglasses.jpg)
 <div class="tiles">
