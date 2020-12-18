@@ -1,11 +1,11 @@
 # Site navigation links
 
 - title: Story
-  url: /page/story.md
+  url: /page/story.html
   excerpt:
   image:
 - title: Project
-  url: /README.md
+  url: /README.html
   excerpt:
   image:
 - title: About
