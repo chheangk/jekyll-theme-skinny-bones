@@ -1,6 +1,10 @@
 # Site navigation links
 
-- title: local
+- title: Story
+  url:
+  excerpt:
+  image:
+- title: Project
   url:
   excerpt:
   image:
