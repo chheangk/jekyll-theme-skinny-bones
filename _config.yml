@@ -19,9 +19,6 @@ kramdown:
   toc_levels: 1..2
 highlighter: rouge
 plugins:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-relative-links
 relative_links:
   enabled: true
@@ -42,7 +39,6 @@ owner:
 
 
 include:
-  - .htaccess
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
